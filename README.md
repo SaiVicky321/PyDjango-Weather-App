@@ -68,6 +68,9 @@ docker pull saivicky321/pydjango-weather-app:v1
 docker run -d -p 8000:8000  saivicky321/pydjango-weather-app:v1
 ```
 
+## Step 7: Final Output
+![final_output](https://github.com/user-attachments/assets/e78f1577-65fa-45e8-abbc-5abb085aab6c)
+
 
 ## Conclusion
 This Weather Application showcases the seamless integration of Django, Docker, and cloud deployment. It demonstrates a practical approach to building and deploying containerized applications. The use of OpenWeatherMap API ensures accurate and real-time weather data. With its straightforward deployment process, this project is an excellent example of modern web application development and deployment techniques.
